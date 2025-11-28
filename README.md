@@ -1,6 +1,6 @@
-# BLM0101_25360859015_FatihMurathanUcar
+BLM0101 Donem Projesi 
 
-#Ogrenci Adi : Fatih Murathan
+Ogrenci Adi : Fatih Murathan
 
 #Ogrenci Soyadi : Ucar
 
