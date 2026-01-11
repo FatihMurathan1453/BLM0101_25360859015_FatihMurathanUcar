@@ -8,7 +8,7 @@ Ogrenci Numarası : 25360859015
 
 Proje Konusu : Veri Depolama ve Sayısal Sistemler
 
-Youtube Linki : https://youtu.be/O4l08YwsFZk
+Youtube Linki : https://youtu.be/HM1lUhmMpZw
 
 Proje Açıklaması :
 
